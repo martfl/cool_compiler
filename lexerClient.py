@@ -7,16 +7,18 @@ import sys
 
 class MyListener(ErrorListener):
     def syntaxError(self, recognizer, offendingSymbol, line, column, msg, e):
-        raise Exception()
+        print(msg)
+        print("Help me im lost!!!!")
 
 def main(argv):
     print("#name %s" % (argv[1]))
     input = FileStream(argv[1])
     lexer = coolLexer(input)
-    lexer.removeErrorListeners()
-    lexer.addErrorListener(MyListener())
+#    lexer.removeErrorListeners()
+#    lexer.addErrorListener(MyListener())
     try:
         l = lexer.getAllTokens()
+#        import pdb; pdb.set_trace()
     except:
         print("Error")
         return

@@ -31,8 +31,15 @@ fragment Z : [zZ] ;
 fragment TRUE : 't' R U E;
 fragment FALSE : 'f' A L S E;
 
+
 Else: E L S E;
 BoolConst: TRUE | FALSE;
+
+Dot: '.';
+Minus: '-';
+IntConst: [0-9]+;
 TypeId: [A-Z][_a-zA-Z0-9]* ;
+ObjectId: [a-z][_a-zA-Z0-9]* ;
+
 
 WS : [ \n\u000D] -> skip ;
