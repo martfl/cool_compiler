@@ -31,6 +31,21 @@ fragment Z : [zZ] ;
 fragment TRUE : 't' R U E;
 fragment FALSE : 'f' A L S E;
 
+/*
+Token names:
+Keywords:
+Class Fi If In Inherits Isvoid Let Loop Pool Then Else 
+While Case Esac New Of Not 
+
+Symbols:
+Lbrace Tbrace Lparen Rparen Semi Colon Mult Div Plus Minus 
+Neg Lt Le Eq At Assign Darrow Comma Dot 
+
+Literals:
+IntConst BoolConst TypeId ObjectId StrConst
+
+*/
+
 
 Else: E L S E;
 BoolConst: TRUE | FALSE;
