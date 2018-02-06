@@ -1,4 +1,4 @@
-from antlr4 import *
+from antlr4 import FileStream
 from antlr4.error.ErrorListener import ErrorListener
 from antlr.coolLexer import coolLexer
 from antlr.coolParser  import coolParser 
@@ -10,6 +10,19 @@ class MyListener(ErrorListener):
         print(msg)
         print("Help me im lost!!!!")
 
+def scan(fnamein, fnameout):
+    with open(fnameout, 'w') as fout:
+        print("#name %s" % fnamein, file=fout)
+        lexer = coolLexer(FileStream(fnamein))
+        try:
+            l = lexer.getAllTokens()
+        except:
+            print("Error")
+            return
+        for x in l:
+            print('#%d %s "%s"' % (x.line, lexer.symbolicNames[x.type], x.text), 
+                file=fout)
+
 def main(argv):
     print("#name %s" % (argv[1]))
     input = FileStream(argv[1])
@@ -18,7 +31,6 @@ def main(argv):
 #    lexer.addErrorListener(MyListener())
     try:
         l = lexer.getAllTokens()
-#        import pdb; pdb.set_trace()
     except:
         print("Error")
         return
@@ -26,4 +38,5 @@ def main(argv):
         print('#%d %s "%s"' % (x.line, lexer.symbolicNames[x.type], x.text))
 
 if __name__ == '__main__':
-    main(sys.argv)
+    #main(sys.argv)
+    scan('resources/scanner/input/all_else_true.cl.cool', 'resources/scanner/output/all_else_true.cl.cool')
