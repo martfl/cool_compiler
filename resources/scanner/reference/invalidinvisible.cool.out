@@ -1,4 +1,4 @@
-#name src/test/resources/scanner/input/invalidinvisible.cool
+#name resources/scanner/input/invalidinvisible.cool
 #1 ObjectId "g"
 #1 ERROR "\001".
 #1 ERROR "\002".

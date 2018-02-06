@@ -1,4 +1,4 @@
-#name src/test/resources/scanner/input/lineno3.cool
+#name resources/scanner/input/lineno3.cool
 #7 Plus "+"
 #8 ObjectId "abc"
 #12 TypeId "DEF"

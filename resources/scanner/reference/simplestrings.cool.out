@@ -1,4 +1,4 @@
-#name src/test/resources/scanner/input/simplestrings.cool
+#name resources/scanner/input/simplestrings.cool
 #1 StrConst "this is a string"
 #1 StrConst "so is this"
 #2 StrConst "one more string"

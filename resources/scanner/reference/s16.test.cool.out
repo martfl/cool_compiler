@@ -1,4 +1,4 @@
-#name src/test/resources/scanner/input/s16.test.cool
+#name resources/scanner/input/s16.test.cool
 #2 IntConst "0"
 #3 IntConst "99"
 #4 IntConst "0777"

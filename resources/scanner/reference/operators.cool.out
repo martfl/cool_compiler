@@ -1,4 +1,4 @@
-#name src/test/resources/scanner/input/operators.cool
+#name resources/scanner/input/operators.cool
 #2 Semi ";"
 #2 Lbrace "{"
 #2 Rbrace "}"

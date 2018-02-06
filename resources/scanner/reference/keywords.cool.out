@@ -1,4 +1,4 @@
-#name src/test/resources/scanner/input/keywords.cool
+#name resources/scanner/input/keywords.cool
 #1 Case "case"
 #2 Klass "CLASS"
 #3 Else "ElSe"

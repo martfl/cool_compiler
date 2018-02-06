@@ -1,4 +1,4 @@
-#name src/test/resources/scanner/input/backslash2.cool
+#name resources/scanner/input/backslash2.cool
 #1 ERROR Unterminated string constant, EOL found.
 #2 ERROR Unterminated string constant, EOL found.
 #4 ERROR Unterminated string constant, EOL found.

@@ -1,4 +1,4 @@
-#name src/test/resources/scanner/input/sort_list.cl.cool
+#name resources/scanner/input/sort_list.cl.cool
 #24 Klass "Class"
 #24 TypeId "List"
 #24 Inherits "inherits"

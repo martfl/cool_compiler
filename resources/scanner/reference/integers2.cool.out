@@ -1,4 +1,4 @@
-#name src/test/resources/scanner/input/integers2.cool
+#name resources/scanner/input/integers2.cool
 #1 IntConst "01"
 #2 IntConst "02"
 #3 IntConst "03"

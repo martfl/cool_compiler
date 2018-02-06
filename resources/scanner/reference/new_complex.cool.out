@@ -1,4 +1,4 @@
-#name src/test/resources/scanner/input/new_complex.cool
+#name resources/scanner/input/new_complex.cool
 #1 Klass "class"
 #1 TypeId "Main"
 #1 Inherits "inherits"

@@ -1,4 +1,4 @@
-#name src/test/resources/scanner/input/validcharacters.cool
+#name resources/scanner/input/validcharacters.cool
 #1 Plus "+"
 #1 Div "/"
 #1 Minus "-"

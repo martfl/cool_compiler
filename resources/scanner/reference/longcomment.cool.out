@@ -1,4 +1,4 @@
-#name src/test/resources/scanner/input/longcomment.cool
+#name resources/scanner/input/longcomment.cool
 #1 TypeId "Comment"
 #1 ObjectId "test"
 #16 TypeId "Comment"

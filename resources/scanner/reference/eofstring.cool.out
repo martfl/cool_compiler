@@ -1,2 +1,2 @@
-#name src/test/resources/scanner/input/eofstring.cool
+#name resources/scanner/input/eofstring.cool
 #1 ERROR EOF in string constant.

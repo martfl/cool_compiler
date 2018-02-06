@@ -1,4 +1,4 @@
-#name src/test/resources/scanner/input/io.cool
+#name resources/scanner/input/io.cool
 #49 Klass "class"
 #49 TypeId "A"
 #49 Lbrace "{"

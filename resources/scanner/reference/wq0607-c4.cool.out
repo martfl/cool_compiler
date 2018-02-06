@@ -1,4 +1,4 @@
-#name src/test/resources/scanner/input/wq0607-c4.cool
+#name resources/scanner/input/wq0607-c4.cool
 #3 StrConst "\\-"
 #3 Minus "-"
 #3 StrConst "--"

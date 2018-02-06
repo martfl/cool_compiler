@@ -1,4 +1,4 @@
-#name src/test/resources/scanner/input/null_in_code.cl.cool
+#name resources/scanner/input/null_in_code.cl.cool
 #2 ObjectId "null"
 #2 ObjectId "character"
 #2 ObjectId "is"

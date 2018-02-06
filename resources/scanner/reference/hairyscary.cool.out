@@ -1,4 +1,4 @@
-#name src/test/resources/scanner/input/hairyscary.cool
+#name resources/scanner/input/hairyscary.cool
 #3 Klass "class"
 #3 TypeId "Foo"
 #3 Inherits "inherits"

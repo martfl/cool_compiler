@@ -1,4 +1,4 @@
-#name src/test/resources/scanner/input/palindrome.cool
+#name resources/scanner/input/palindrome.cool
 #1 Klass "class"
 #1 TypeId "Main"
 #1 Inherits "inherits"

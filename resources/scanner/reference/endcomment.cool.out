@@ -1,4 +1,4 @@
-#name src/test/resources/scanner/input/endcomment.cool
+#name resources/scanner/input/endcomment.cool
 #1 TypeId "This"
 #1 ObjectId "comment"
 #1 ObjectId "was"

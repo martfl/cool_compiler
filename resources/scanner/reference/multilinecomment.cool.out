@@ -1,4 +1,4 @@
-#name src/test/resources/scanner/input/multilinecomment.cool
+#name resources/scanner/input/multilinecomment.cool
 #3 Not "not"
 #3 In "in"
 #3 ObjectId "a"

@@ -1,4 +1,4 @@
-#name src/test/resources/scanner/input/atoi.cool
+#name resources/scanner/input/atoi.cool
 #13 Klass "class"
 #13 TypeId "A2I"
 #13 Lbrace "{"

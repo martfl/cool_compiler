@@ -1,4 +1,4 @@
-#name src/test/resources/scanner/input/arith.cool
+#name resources/scanner/input/arith.cool
 #7 Klass "class"
 #7 TypeId "A"
 #7 Lbrace "{"

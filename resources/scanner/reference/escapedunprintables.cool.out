@@ -1,4 +1,4 @@
-#name src/test/resources/scanner/input/escapedunprintables.cool
+#name resources/scanner/input/escapedunprintables.cool
 #1 StrConst "This is a tab:\t"
 #2 StrConst "This is a backspace:\b"
 #3 StrConst "This is a formfeed:\f"

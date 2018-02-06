@@ -1,4 +1,4 @@
-#name src/test/resources/scanner/input/badkeywords.cool
+#name resources/scanner/input/badkeywords.cool
 #1 ObjectId "casee"
 #2 ObjectId "elsif"
 #3 ObjectId "form"

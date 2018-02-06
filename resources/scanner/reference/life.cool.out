@@ -1,4 +1,4 @@
-#name src/test/resources/scanner/input/life.cool
+#name resources/scanner/input/life.cool
 #45 Klass "class"
 #45 TypeId "Board"
 #45 Inherits "inherits"

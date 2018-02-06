@@ -1,4 +1,4 @@
-#name src/test/resources/scanner/input/badidentifiers.cool
+#name resources/scanner/input/badidentifiers.cool
 #1 ObjectId "inky"
 #1 Dot "."
 #1 ObjectId "binky"

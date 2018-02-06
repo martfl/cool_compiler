@@ -1,4 +1,4 @@
-#name src/test/resources/scanner/input/objectid.test.cool
+#name resources/scanner/input/objectid.test.cool
 #1 ObjectId "quasar"
 #2 TypeId "Quasar"
 #3 ObjectId "q__uasar"

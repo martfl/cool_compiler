@@ -1,4 +1,4 @@
-#name src/test/resources/scanner/input/bothcomments.cool
+#name resources/scanner/input/bothcomments.cool
 #2 ObjectId "what"
 #2 ObjectId "the"
 #2 ObjectId "programmer"

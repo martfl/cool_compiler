@@ -1,4 +1,4 @@
-#name src/test/resources/scanner/input/book_list.cl.cool
+#name resources/scanner/input/book_list.cl.cool
 #3 Klass "Class"
 #3 TypeId "Book"
 #3 Inherits "inherits"
