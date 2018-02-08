@@ -1,5 +1,6 @@
 *.class
 *.java
 *.pyc
+test/
 __pycache__
 env
